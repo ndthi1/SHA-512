@@ -4,7 +4,7 @@
 using std::string;
 using std::cout;
 using std::endl;
-
+///dangthi has some change in this
 int main(int argc, char* argv[])
 {
     cout << "input password:";

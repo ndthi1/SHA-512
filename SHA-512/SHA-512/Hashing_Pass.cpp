@@ -5,7 +5,7 @@ using std::string;
 using std::cout;
 using std::endl;
 
-//conflix?no
+//avoinfds
 
 int main(int argc, char* argv[])
 {
@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
         string input1;
     std::cin >> input1;
     string output2 = sha512(input1);
-    string input2 = "thi";S
+    string input2 = "thi";
     
     string output1 = sha512(input2);
 

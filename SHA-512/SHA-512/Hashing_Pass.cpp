@@ -5,7 +5,7 @@ using std::string;
 using std::cout;
 using std::endl;
 
-//conflix?yes
+//conflix?no
 
 int main(int argc, char* argv[])
 {

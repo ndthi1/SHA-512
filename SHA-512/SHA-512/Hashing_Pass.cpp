@@ -5,7 +5,7 @@ using std::string;
 using std::cout;
 using std::endl;
 
-//I change to make conflix
+//try to merge
 
 int main(int argc, char* argv[])
 {

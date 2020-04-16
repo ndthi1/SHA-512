@@ -4,7 +4,7 @@
 using std::string;
 using std::cout;
 using std::endl;
-//Not thing change
+//Change again
 int main(int argc, char* argv[])
 {
     cout << "input password:";

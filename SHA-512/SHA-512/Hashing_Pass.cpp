@@ -4,14 +4,14 @@
 using std::string;
 using std::cout;
 using std::endl;
-//I want to change
+//Now I dont want to change
 int main(int argc, char* argv[])
 {
     cout << "input password:";
         string input1;
     std::cin >> input1;
     string output2 = sha512(input1);
-    string input2 = "thi";
+    string input2 = "thi";S
     
     string output1 = sha512(input2);
 

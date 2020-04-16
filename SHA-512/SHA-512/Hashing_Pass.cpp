@@ -4,7 +4,7 @@
 using std::string;
 using std::cout;
 using std::endl;
-//Now I dont want to change
+//So you want to change or not?
 int main(int argc, char* argv[])
 {
     cout << "input password:";
